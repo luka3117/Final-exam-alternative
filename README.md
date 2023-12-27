@@ -24,7 +24,7 @@
     - 例：簡単な関数を取り上げて解説など
     
 4. クラスについて
-   - [例えば、講義中解説したこの視聴した後、内容をまとめて報告→動画はこちらをclick](https://youtu.be/ZDa-Z5JzLYM?si=JDdhoCgTlqcFLI8i)
+   - [例えば、講義中に紹介したEmployee classに関する動画を視聴した後、内容をまとめて報告→動画はこちらをclick](https://youtu.be/ZDa-Z5JzLYM?si=JDdhoCgTlqcFLI8i)
 
 5. (optional)リスト内包表記について
     - 教科書には説明されていない内容
