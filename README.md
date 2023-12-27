@@ -14,15 +14,14 @@
 
 ## テーマ　一覧
 
-
 1. listとdictionaryについて
-    - 例：indexing
+    - 例：index方法など
     
 2. for文とif文について
     - 例：forとrange関数の組み合わせなど 
 
 3. 関数について
-    - 例：簡単な関するを作成した後解説
+    - 例：簡単な関数を取り上げて解説など
     
 4. クラスについて
    - [例えば、講義中解説したこの視聴した後、内容をまとめて報告→動画はこちらをclick](https://youtu.be/ZDa-Z5JzLYM?si=JDdhoCgTlqcFLI8i)
