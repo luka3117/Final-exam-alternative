@@ -27,7 +27,7 @@
    - [例えば、講義中解説したこの視聴した後、内容をまとめて報告→動画はこちらをclick](https://youtu.be/ZDa-Z5JzLYM?si=JDdhoCgTlqcFLI8i)
 
 5. (optional)リスト内包表記について
-    - 教科書には説明されてない内容
+    - 教科書には説明されていない内容
     
       - [参考1](https://realpython.com/list-comprehension-python/#using-for-loops)
       - [参考２](https://realpython.com/list-comprehension-python/#using-list-comprehensionsを読みlistcomprehension)
