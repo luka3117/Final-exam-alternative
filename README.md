@@ -32,7 +32,7 @@
       - [参考1](https://realpython.com/list-comprehension-python/#using-for-loops)
       - [参考２](https://realpython.com/list-comprehension-python/#using-list-comprehensionsを読みlistcomprehension)
       
-      - hint : 以下の２のコードは同じ結果が返される。list comprehensionを使ったコード(上のコード)はfor分より(下のコード)簡単にコート作成が可能
+      - hint : 以下の２のコードは同じ結果が返される。list comprehensionを使ったコード(上のコード)はfor文より(下のコード)簡単にコート作成が可能
 
 ```
 squares = [i * i for i in range(10)]
